@@ -1,4 +1,4 @@
-# WeWork
+# WeManage
 A mobile application allows employees to manage their shifts, view their colleagues' schedules and possibly text them for more information. 
 ```javascript
   npm install
