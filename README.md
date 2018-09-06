@@ -25,4 +25,4 @@ A mobile application allows employees to manage their shifts, view their colleag
 
 | Updated list    | Edit employee    | Delete employee    | 
 | :-------------: | :-------------: | :-------------: |
-| ![UpdatedList](screenshots/updatedList.png) | ![EditEmployee](screenshots/edit.png) | ![DeleteEmployee ](screenshots/delete.png) |
+| ![UpdatedList](screenshots/updatedLIst.png) | ![EditEmployee](screenshots/edit.png) | ![DeleteEmployee ](screenshots/delete.png) |
